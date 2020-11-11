@@ -36,4 +36,4 @@ Commit your changes, don't forget to use a meaningful commit message.
 
 ## Step 6
 
-Push your changes to the remote repository, i.e., GitHub. If you're on command line, you'll also need to specify that the remote branch has the same name as your local branch. Concretely, you'd enter this: `git push --set-upstream origin BRANCHNAME`
+Push your changes to the remote repository, i.e., GitHub. If you're on command line, you'll also need to specify that the remote branch has the same name as your local branch. Concretely, you'd enter this: `git push --set-upstream origin BRANCHNAME` (yes, you can have different branch names on the remote server than locally, but this is very confusing, so better don't ...).
