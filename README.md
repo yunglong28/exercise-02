@@ -3,17 +3,17 @@
 This exercise is about git. You are expected to clone a repository, create a new branch, make some changes on this branch, and push your changes to our GitHub organisation.
 
 ## Step 1
-As the first task, you will need to get a running git installation on the computer you'll be using in the semester. If you are interested in the barebones git installation, [this guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) should help you. It explains how to install git for the various operating systems. This will give you the most up to date version and the purest experience, but it will probably not be pretty (and/or hacky). There are, luckily, a few alternatives with graphical user interfaces:
+As the first task, you will need to get a running git installation on the computer you'll be using in the semester. If you are interested in the barebones git installation, [this guide](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) should help you. It explains how to install git for the various operating systems. This will give you the most up to date version and the purest experience, but it will probably not be pretty. There are, luckily, a few alternatives with graphical user interfaces:
 
 - GitHub also provides a [Desktop client](https://desktop.github.com)
 - The client I've shown in class is called [SourceTree](https://www.sourcetreeapp.com), but you will need yet another account to use it (this time from Atlassian)
 - [GitKraken](https://www.gitkraken.com) is finally a tool that is also available for Linux (but also Windows and Mac)
 
-Feel free to try them and to share experiences via Discord or other means.
+Feel free to experiment what you like the most.
 
 ## Step 2
 
-Please clone this repository onto your local computer. On the command line, you would enter: `git clone https://github.com/idh-cologne-tools-ressourcen-infra`.
+Please clone this repository onto your local computer. On the command line, you would enter: `git clone https://github.com/idh-cologne-tools-ressourcen-infra/exercise-02`.
 
 ## Step 3
 Create a new branch using your UzK username as a name (in my case, it would be nreiter2). If you feel creative, choose any other name (that no one else will take ...). On the command line, you would enter: `git checkout -b BRANCHNAME`.
@@ -28,7 +28,7 @@ The file `main.java` in the top level directory of the repository contains Java 
 ...
 ```
 
-Unfortunately, our beginner has made quite a few mistakes in their program. Please fix all the mistakes, and verify afterwards that your program compiles and generates proper output.
+Unfortunately, our beginner has made quite a few mistakes in their program. Please fix all the mistakes, and verify afterwards that your program compiles and generates the proper output.
 
 ## Step 5
 
